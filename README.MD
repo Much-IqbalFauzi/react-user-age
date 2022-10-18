@@ -2,11 +2,13 @@
 
 This is simple project pacticing react app with bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Project Status
+# Included
 
-- [x] Reusable components | Card, Button
-- [x] Manage user input state
+- [x] Reusable components \[Card, Button\]
+- [x] **Update** `using Ref`\* Manage user input state
 - [x] Validation input
+- [x] React Fragment
+- [x] React Portals
 
 ## Available Scripts
 
